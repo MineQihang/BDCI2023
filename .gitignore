@@ -160,5 +160,7 @@ cython_debug/
 #.idea/
 
 # custom
-data
-test
+data/*
+test/*
+valid/*
+model/*
