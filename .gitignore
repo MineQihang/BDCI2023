@@ -160,9 +160,3 @@ cython_debug/
 #.idea/
 
 # custom
-data/*
-test/*
-valid/*
-model/*
-submit/*
-.idea
